@@ -90,6 +90,17 @@ namespace LINQPrac
                 year = c.Year
             });
 
+            /*
+             * Joins with group by
+             * */
+
+            var resultInJoinWithGroupBy = singers.Join(conserts, s => s.Id, c => c.SingerId, (s, c) => new {
+                id = s.Id,
+                SingerName = string.Concat(s.FirstName, " ", s.LastName),
+                concertCount = c.ConcertCount,
+                year = c.Year
+            }).GroupBy(x => x.year);
+
             foreach (var row in resultInJoin)
             {
                 Console.WriteLine(row.id);

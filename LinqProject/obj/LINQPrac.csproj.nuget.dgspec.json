@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\LINQPrac\\LINQPrac.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\LINQPrac\\LinqProject\\LINQPrac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\LINQPrac\\LINQPrac.csproj": {
+    "C:\\Users\\HP\\source\\repos\\LINQPrac\\LinqProject\\LINQPrac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\LINQPrac\\LINQPrac.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\LINQPrac\\LinqProject\\LINQPrac.csproj",
         "projectName": "LINQPrac",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\LINQPrac\\LINQPrac.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\LINQPrac\\LinqProject\\LINQPrac.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\LINQPrac\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\LINQPrac\\LinqProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

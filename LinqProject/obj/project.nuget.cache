@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XrLIKiZiEfvBZq471XIyIWHZQQ/gpz8dXiCZq0Wo2grO5nUNAdHRvoA3RFalcDSyR+jYas0rN1W3mmQWmUL1NQ==",
+  "dgSpecHash": "Rl4tIXYnAuChtsOTkCmcDoCkVyTBjBrCUF28lewN5mQskwumjbUTuAo/Sulg5TcJvxlddt8VmPTCf8sqkHgL6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\LINQPrac\\LINQPrac.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\LINQPrac\\LinqProject\\LINQPrac.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
